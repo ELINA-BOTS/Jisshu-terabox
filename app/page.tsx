@@ -161,10 +161,10 @@ export default function Home() {
           <li>
             {/* <Camera color="red" size={48} /> */}
             <Button className="bg-blue-600">
-              <Link href="https://t.me/requestcenterr">Support</Link>
+              <Link href="https://t.me/JISSHU_BOTS">Support</Link>
             </Button>
             <Button className="bg-blue-600">
-              <Link href="https://github.com/NamasteIndia/terabox-app">Github</Link>
+              <Link href="https://github.com/Jisshu">Github</Link>
             </Button>
           </li>
         </ul>
