@@ -164,7 +164,7 @@ export default function Home() {
               <Link href="https://t.me/JISSHU_BOTS">Support</Link>
             </Button>
             <Button className="bg-blue-600">
-              <Link href="https://github.com/Jisshu">Github</Link>
+              <Link href="https://github.com/Jisshubot">Github</Link>
             </Button>
           </li>
         </ul>
